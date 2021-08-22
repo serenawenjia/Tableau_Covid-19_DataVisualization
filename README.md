@@ -11,7 +11,7 @@ This project will be working in Tableau to visualize the data from Covid-19. We 
 
 - [What are the number of recovered cases in Canada?](#what-are-the-number-of-recovered-cases-in-canada)
 
-- [Forecast Trend-Line for Covid-19 in Canada.](#forecast-trend-line-for-covid-19)
+- [Forecast Trend-Line for Covid-19 in Canada.](#forecast-trend-line-for-covid-19-in-canada)
 
 - [Group Canadian Provinces.](#group-canadian-provinces)
 
@@ -32,17 +32,13 @@ This project will be working in Tableau to visualize the data from Covid-19. We 
 ![](Image%2FRecovery%20Cases%20Canada%20%282%29.png)![](Image%2FRecovery%20Cases%20Canada.png)
 
 ## Forecast Trend-Line for Covid-19 in Canada.
-![]
-()
+![](Image%2FTrend%20Line%20Canada.png)
 
 ## Group Canadian Provinces.
-![]
-()
+![](Image%2FGrouped.png)
 
 ## Find the variation in Covid-19.
-![]
-()
+![](Image%2FVariation%20of%20C-19.png)
 
 ## Forecast the sheet for future and reference.
-![]
-()
+![](Image%2FForecast%20of%20C-19%20Presence.png)
